@@ -1,18 +1,22 @@
-## Hello World! 👋
+<!-- ## Hello World!  -->
+
+## 👋 Hello World!&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <!-- <p align="center">🔭 I’m a full stack web application developer, mostly experienced at frontend with JavaScript and React.</p> -->
 
-- 🔭 I’m currently working for Headless Technologies Limited, Bangladesh
-- 🌱 I’m currently learning JavaScript, Redux mechanisms
+- 👨‍💻 I'm full stack web application developer
+- 🔭 Working at Headless Technologies Ltd, BD. 
+- 🔭 Freelancing at Brilliant Solutions Ltd, HK.
+- 🌱 Learning JavaScript, Redux mechanisms
+- 👯 Looking to collaborate on open source projects
 - 💬 Ask me about web development
 - 😄 Pronouns: He / Him
-<!-- - ⚡ Fun fact: I like to  -->
+- ⚡ Fun fact: Trying to reduce sleeping 
 
 ### Things I deal with
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
