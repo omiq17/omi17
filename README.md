@@ -7,7 +7,7 @@
 - 🌱 Learning JavaScript in details
 - 👯 Looking to collaborate on stackoverflow
 - 💡 Can help with programming, web developing tips
-- 🎯 Target: wake up early at morning 
+- 🎯 Target: wake up early in the morning 
 
 ### Things I deal with
 
