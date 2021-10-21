@@ -4,11 +4,10 @@
 
 - 👨‍💻 I'm full stack web application developer
 - 💻 Working at Headless Technologies Ltd, BD
-- 🏡 Freelancing at Brilliant Solutions Ltd, HK
-- 🌱 Learning JavaScript, Redux mechanisms
-- 👯 Looking to collaborate on open source projects
+- 🌱 Learning JavaScript in details
+- 👯 Looking to collaborate on stackoverflow
 - 💡 Can help with programming, web developing tips
-- 🎯 Target: reduce sleeping and wasting time 
+- 🎯 Target: wake up early at morning 
 
 ### Things I deal with
 
