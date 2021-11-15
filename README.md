@@ -3,11 +3,11 @@
 ## 👋🏼 Hello World!&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 👨‍💻 I'm full stack web application developer
-- 💻 Working at Headless Technologies Ltd, BD
+- 💻 Working at PETRONAS Digital Sdn Bhd
 - 🌱 Learning JavaScript in details
 - 👯 Looking to collaborate on stackoverflow
 - 💡 Can help with programming, web developing tips
-- 🎯 Target: wake up early in the morning 
+- 🎯 Target: regularly wake up early in the morning 
 
 ### Things I deal with
 
